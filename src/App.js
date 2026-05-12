@@ -4,9 +4,7 @@ import TotalDisplay from "./components/TotalDisplay";
 import CalcButton from "./components/CalcButton";
 
 import {
-  ADD_ONE,
-  APPLY_NUMBER,
-  applyNumber,
+  
   CHANGE_OPERATION,
   CLEAR,
   MEMORY_CLEAR,
