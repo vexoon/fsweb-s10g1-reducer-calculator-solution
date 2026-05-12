@@ -9,7 +9,7 @@ import {
   MEMORY_PLUS,
   DIGIT,
   CALCULATE,
-  applyNumber,
+  
 } from "./../actions";
 
 export const initialState = {
